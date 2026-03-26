@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Tyler/.claude/**)",
+      "Read(//c/Users/Tyler/.claude/projects/C--Users-Tyler-Documents-GitHub-claude-code/memory//**)",
+      "mcp__mcp-registry__search_mcp_registry",
+      "Bash(git config:*)",
+      "Bash(gh auth:*)"
+    ]
+  }
+}
